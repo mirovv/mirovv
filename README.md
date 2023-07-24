@@ -2,11 +2,7 @@
 
 # Welcome to My GitHub Profile! 👋
 
-![Header Image](./github-header-image.png)
-
-## Hey there! 👨‍💻
-
-Welcome to my GitHub profile! I'm thrilled to have you here. Feel free to explore my repositories and projects.
+I'm thrilled to have you here. Feel free to explore my repositories and projects.
 
 ## About Me 🤓
 
