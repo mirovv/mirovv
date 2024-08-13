@@ -20,8 +20,6 @@ I'm a computer science student at [UZH](https://www.uzh.ch/de.html) with a deep 
   * React
 - Tools:
   *  Git
-  *  Docker
-  *  VSCode
   *  Confluence
 
 ## Get in Touch 📬
